@@ -9,6 +9,7 @@ titanium
 svm
 aws
 
+java, php (¿i o c?), visualstudio, elixir, lisp, scala, ruby, phyton
 
 flutter
 
