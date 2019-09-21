@@ -1,13 +1,23 @@
 # sesionUnoSwift
 
+Una aplicación es el 30% de todo el desarrollo. 
+Sistema web ayudado con apps
+
+
 Apuntes sin sentido
 
 appionic
 appcelerator
 titanium
 
-svm
-aws
+svm, aws, joomla
+Arquitectura (back, front)
+Webservice (acceso)
+Lógica de negocio, análisis y diseño...
+Vistas, modelado, activity, fragments
+JSON
+Peticiones a servidor
+Velocidad, espacio de almacenamiento
 
 java, php (¿i o c?), visualstudio, elixir, lisp, scala, ruby, phyton
 
